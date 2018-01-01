@@ -1,0 +1,557 @@
+location,bedroom,bathroom,square,rent,pet,style,distance,average
+Hoboken,1,1,500,"2,000",No,B,0<d<2,BAD
+Hoboken,1,1,"1,150","2,950",Yes,B,0<d<2,BAD
+Hoboken,2,1,925,"2,300",No,B,0<d<2,GOOD
+Hoboken,2,2,900,"2,600",No,A,0<d<2,GOOD
+Hoboken,2,2,925,"2,600",Yes,A,0<d<2,GOOD
+Hoboken,2,2,900,"2,600",Yes,A,0<d<2,GOOD
+Hoboken,2,1,N/A,"2,850",Yes,B,0<d<2,BAD
+Hoboken,2,1,870,"2,975",Yes,B,0<d<2,BAD
+Hoboken,1,1,650,"2,450",Yes,A,0<d<2,BAD
+Hoboken,1,1,925,"2,450",No,A,0<d<2,BAD
+Hoboken,1,1,975,"2,450",Yes,A,0<d<2,BAD
+Hoboken,2,1,870,"2,700",Yes,B,0<d<2,GOOD
+Hoboken,2,2,1700,"4,500",Yes,B,0<d<2,BAD
+Hoboken,2,2,1700,"4,500",Yes,B,0<d<2,BAD
+Hoboken,2,2,1700,"4,500",No,B,0<d<2,BAD
+Hoboken,2,2,1700,"4,500",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,600","4,500",No,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,500",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,500",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,500",Yes,A,0<d<2,BAD
+Hoboken,3,1,"1,600","4,000",Yes,B,0<d<2,GOOD
+Hoboken,3,2,1200,"4,100",No,B,0<d<2,GOOD
+Hoboken,2,2,1200,"4,500",No,B,0<d<2,BAD
+Hoboken,1,1,870,"2,300",No,B,0<d<2,BAD
+Hoboken,4,2,"1,600","4,400",No,C,0<d<2,GOOD
+Hoboken,4,2,"1,600","4,400",No,C,0<d<2,GOOD
+Hoboken,4,2,"1,600","4,400",No,C,0<d<2,GOOD
+Hoboken,4,2,"1,600","4,400",No,C,0<d<2,GOOD
+Hoboken,4,2.5,1825,"6,000",Yes,B,0<d<2,BAD
+Hoboken,1,1,700,"2,500",No,B,0<d<2,BAD
+Hoboken,1,1,900,"2,500",Yes,B,0<d<2,BAD
+Hoboken,1,1,"1,000","2,500",Yes,B,0<d<2,BAD
+Hoboken,2,1,N/A,"1,950",Yes,B,0<d<2,GOOD
+Hoboken,1,1,550,"2,100",No,C,0<d<2,BAD
+Hoboken,1,1,"1,000","2,100",Yes,B,0<d<2,BAD
+Hoboken,1,1,600,"2,450",Yes,B,0<d<2,BAD
+Hoboken,1,1,925,"2,450",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,450",Yes,B,0<d<2,BAD
+Hoboken,2,1,925,"2,650",Yes,B,0<d<2,GOOD
+Hoboken,2,2,"1,150","2,900",Yes,B,0<d<2,BAD
+Hoboken,2,1,836,"2,500",Yes,B,0<d<2,GOOD
+Hoboken,2,1,N/A,"2,500",No,B,0<d<2,GOOD
+Hoboken,2,1,836,"2,500",Yes,B,0<d<2,GOOD
+Hoboken,1,1.5,N/A,"4,350",Yes,B,0<d<2,BAD
+Hoboken,2,1,925,"2,600",No,B,0<d<2,GOOD
+Hoboken,2,1,900,"2,600",Yes,B,0<d<2,GOOD
+Hoboken,2,1,870,"2,600",No,B,0<d<2,GOOD
+Hoboken,2,1,812,"3,000",No,C,0<d<2,BAD
+Hoboken,4,2.5,2000,"6,950",Yes,B,0<d<2,BAD
+Hoboken,4,2.5,1825,"6,950",Yes,B,0<d<2,BAD
+Hoboken,4,2.5,1825,"6,950",No,B,0<d<2,BAD
+Hoboken,2,2,900,"2,850",Yes,B,0<d<2,BAD
+Hoboken,2,1.5,836,"2,700",Yes,B,0<d<2,GOOD
+Hoboken,2,1.5,870,"2,700",Yes,B,0<d<2,GOOD
+Hoboken,2,1.5,N/A,"2,700",Yes,B,0<d<2,GOOD
+Hoboken,2,1,609,"2,450",No,A,0<d<2,GOOD
+Hoboken,2,1,836,"2,450",Yes,A,0<d<2,GOOD
+Hoboken,2,1,900,"2,450",Yes,A,0<d<2,GOOD
+Hoboken,2,1,925,"2,450",Yes,A,0<d<2,GOOD
+Hoboken,2,1,975,"2,450",Yes,A,0<d<2,GOOD
+Hoboken,2,1,N/A,"2,450",No,A,0<d<2,GOOD
+Hoboken,1,1,870,"2,500",No,B,0<d<2,BAD
+Hoboken,2,1,"1,150","2,950",Yes,A,0<d<2,BAD
+Hoboken,2,1,"1,000","2,950",No,A,0<d<2,BAD
+Hoboken,2,1,836,"2,950",Yes,A,0<d<2,BAD
+Hoboken,5,6.5,N/A,"13,000",No,B,0<d<2,BAD
+Hoboken,3,1,848,"2,921",Yes,A,0<d<2,GOOD
+Hoboken,2,2,900,"2,975",Yes,C,0<d<2,BAD
+Hoboken,2,2,N/A,"3,300",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,300",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,300",No,A,0<d<2,BAD
+Hoboken,2,2,1150,"3,550",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,550",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,550",No,A,0<d<2,BAD
+Hoboken,1,1,975,"2,950",No,B,0<d<2,BAD
+Hoboken,2,2,975,"3,075",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,300",Yes,B,0<d<2,BAD
+Hoboken,2,2,1200,"3,300",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,350",No,B,0<d<2,BAD
+Hoboken,1,1,N/A,"2,500",No,B,0<d<2,BAD
+Hoboken,1,1,750,"2,550",No,C,0<d<2,BAD
+Hoboken,1,1,750,"2,550",No,C,0<d<2,BAD
+Hoboken,2,1,836,"2,500",Yes,B,0<d<2,GOOD
+Hoboken,1,1,800,"3,150",Yes,B,0<d<2,BAD
+Hoboken,2,2,900,"2,975",Yes,B,0<d<2,BAD
+Hoboken,2,3,"1,500","3,850",No,C,0<d<2,BAD
+Hoboken,1,1,750,"2,200",Yes,A,0<d<2,BAD
+Hoboken,1,1,900,"2,200",No,A,0<d<2,BAD
+Hoboken,1,1,836,"2,200",No,A,0<d<2,BAD
+Hoboken,2,2,N/A,"3,900",No,B,0<d<2,BAD
+Hoboken,2,2,1700,"4,000",Yes,A,0<d<2,BAD
+Hoboken,2,1,836,"2,350",Yes,B,0<d<2,GOOD
+Hoboken,2,1,925,"2,350",Yes,B,0<d<2,GOOD
+Hoboken,2,1.5,"1,150","3,400",Yes,B,0<d<2,BAD
+Hoboken,1,1,925,"2,575",Yes,B,0<d<2,BAD
+Hoboken,3,1,836,"2,920",Yes,A,0<d<2,GOOD
+Hoboken,3,1,836,"2,920",Yes,A,0<d<2,GOOD
+Hoboken,1,1,870,"2,810",No,A,0<d<2,BAD
+Hoboken,1,1,870,"2,810",Yes,A,0<d<2,BAD
+Hoboken,1,1,738,"2,810",Yes,A,0<d<2,BAD
+Hoboken,1,1,1200,"3,000",No,B,0<d<2,BAD
+Hoboken,2,2,"1,035","2,800",Yes,A,0<d<2,GOOD
+Hoboken,2,2,"1,150","3,200",Yes,B,0<d<2,BAD
+Hoboken,1,1,897,"2,881",Yes,A,0<d<2,BAD
+Hoboken,1,1,897,"2,921",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,600","4,300",Yes,B,0<d<2,BAD
+Hoboken,1,1,609,"2,414",Yes,A,0<d<2,BAD
+Hoboken,1,1,N/A,"2,750",Yes,B,0<d<2,BAD
+Hoboken,1,1,900,"2,750",Yes,B,0<d<2,BAD
+Hoboken,1,1,870,"2,750",No,B,0<d<2,BAD
+Hoboken,1,1,870,"2,550",Yes,A,0<d<2,BAD
+Hoboken,1,1,870,"2,550",Yes,A,0<d<2,BAD
+Hoboken,1,1,870,"2,550",No,A,0<d<2,BAD
+Hoboken,3,1,1700,"3,875",Yes,A,0<d<2,GOOD
+Hoboken,1,1,738,"3,359",Yes,A,0<d<2,BAD
+Hoboken,1,1.5,"1,150","3,500",No,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,400",Yes,A,0<d<2,BAD
+Hoboken,3,1,N/A,"2,395",Yes,A,0<d<2,GOOD
+Hoboken,3,1,N/A,"2,395",Yes,A,0<d<2,GOOD
+Hoboken,2,2,870,"2,600",Yes,B,0<d<2,GOOD
+Hoboken,2,2.5,N/A,"10,000",Yes,B,0<d<2,BAD
+Hoboken,1,1,"1,600","5,500",No,B,0<d<2,BAD
+Hoboken,1,1,675,"2,200",No,C,0<d<2,BAD
+Hoboken,3,1,"1,150","3,800",Yes,B,0<d<2,GOOD
+Hoboken,1,1,870,"2,500",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,995",No,A,0<d<2,BAD
+Hoboken,1,1,870,"2,896",Yes,A,0<d<2,BAD
+Hoboken,1,1,870,"2,896",Yes,A,0<d<2,BAD
+Hoboken,2,2,900,"3,000",No,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,000",No,B,0<d<2,BAD
+Hoboken,1,1,739,"2,880",Yes,A,0<d<2,BAD
+Hoboken,1,1,739,"2,880",Yes,A,0<d<2,BAD
+Hoboken,1,1,700,"4,000",No,B,0<d<2,BAD
+Hoboken,3,2,"1,150","4,200",Yes,B,0<d<2,GOOD
+Hoboken,2,2,900,"2,900",Yes,B,0<d<2,BAD
+Hoboken,2,2,N/A,"3,000",No,B,0<d<2,BAD
+Hoboken,2,2,1200,"3,050",No,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,050",Yes,B,0<d<2,BAD
+Hoboken,2,2,738,"3,050",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,575",Yes,B,0<d<2,BAD
+Hoboken,1,1,975,"2,650",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,100","2,900",Yes,C,0<d<2,BAD
+Hoboken,2,2,"1,100","2,900",Yes,C,0<d<2,BAD
+Hoboken,2,2,"1,100","2,900",Yes,C,0<d<2,BAD
+Hoboken,2,2,"1,100","2,900",Yes,C,0<d<2,BAD
+Hoboken,2,2,"1,148","3,200",No,C,0<d<2,BAD
+Hoboken,2,2,1200,"3,600",Yes,A,0<d<2,BAD
+Hoboken,2,2,1200,"3,600",Yes,A,0<d<2,BAD
+Hoboken,1,1,700,"2,575",Yes,B,0<d<2,BAD
+Hoboken,1,1,870,"2,575",Yes,B,0<d<2,BAD
+Hoboken,1,1,870,"2,575",Yes,B,0<d<2,BAD
+Hoboken,2,1,870,"2,800",No,A,0<d<2,GOOD
+Hoboken,2,1,975,"2,800",No,A,0<d<2,GOOD
+Hoboken,2,1,900,"2,800",Yes,A,0<d<2,GOOD
+Hoboken,1,1,700,"2,650",No,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,400",Yes,B,0<d<2,BAD
+Hoboken,1,1,N/A,"1,900",No,B,0<d<2,BAD
+Hoboken,1,1,650,"1,900",Yes,B,0<d<2,BAD
+Hoboken,1,1,N/A,"1,900",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,200","3,646",No,B,0<d<2,BAD
+Hoboken,2,2,900,"3,950",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,950",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,600","3,950",Yes,B,0<d<2,BAD
+Hoboken,1,1,870,"2,800",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,300",Yes,B,0<d<2,BAD
+Hoboken,3,2,"1,600","4,750",No,A,0<d<2,BAD
+Hoboken,1,1,870,"2,200",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,200",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,200",Yes,B,0<d<2,BAD
+Hoboken,2,2,1200,"3,200",Yes,B,0<d<2,BAD
+Hoboken,2,1,975,"2,650",Yes,B,0<d<2,GOOD
+Hoboken,1,1,609,"1,900",No,B,0<d<2,BAD
+Hoboken,1,1,650,"2,470",Yes,B,0<d<2,BAD
+Hoboken,1,1,870,"2,470",Yes,B,0<d<2,BAD
+Hoboken,1,1,975,"2,470",Yes,B,0<d<2,BAD
+Hoboken,1,1,N/A,"2,000",Yes,A,0<d<2,BAD
+Hoboken,1,1,500,"2,000",Yes,A,0<d<2,BAD
+Hoboken,1,1,500,"2,000",No,A,0<d<2,BAD
+Hoboken,2,2,"1,600","4,600",No,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,600",No,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,836,"3,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,900,"3,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,1100,"3,100",No,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,100",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,100",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,200",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,200",No,B,0<d<2,BAD
+Hoboken,2,2,"1,150","3,200",Yes,B,0<d<2,BAD
+Hoboken,2,2,N/A,"3,877",Yes,B,0<d<2,BAD
+Hoboken,2,2,N/A,"3,877",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,000","4,200",No,B,0<d<2,BAD
+Hoboken,2,2,900,"4,200",Yes,B,0<d<2,BAD
+Hoboken,2,2,"1,600","4,200",Yes,B,0<d<2,BAD
+Hoboken,2,2,1700,"4,200",No,B,0<d<2,BAD
+Hoboken,1,1,650,"1,900",No,B,0<d<2,BAD
+Hoboken,2,2,1200,"3,400",No,A,0<d<2,BAD
+Hoboken,2,2,N/A,"3,400",No,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,400",Yes,A,0<d<2,BAD
+Hoboken,2,2,"1,150","3,400",Yes,B,0<d<2,BAD
+Hoboken,1,1,836,"2,350",Yes,B,0<d<2,BAD
+Jersey City,3,1,444,1675,No,B,0<d<2,GOOD
+Jersey City,1,1,150,1450,No,B,0<d<2,BAD
+Jersey City,1,1,303,1850,No,B,0<d<2,BAD
+Hoboken,2,2,1200,"3,900",Yes,B,0<d<2,BAD
+Hoboken,3,1,440,"1,950",No,A,0<d<2,GOOD
+Jersey City,3,2,799,2950,Yes,B,0<d<2,GOOD
+Jersey City,3,2,607,3100,Yes,B,0<d<2,GOOD
+Jersey City,2,1,710,2300,No,B,0<d<2,GOOD
+Jersey City,2,2,878,3400,Yes,B,0<d<2,BAD
+Hoboken,2,1,1000,"2,650",Yes,B,0<d<2,GOOD
+Hoboken,2,1,870,"2,650",No,B,0<d<2,GOOD
+Hoboken,2,1,925,"2,650",No,B,0<d<2,GOOD
+Jersey City,2,1,178,1450,No,B,0<d<2,GOOD
+Jersey City,3,2,555,2200,Yes,B,0<d<2,GOOD
+Jersey City,3,1,700,2300,No,B,0<d<2,GOOD
+Jersey City,3,2,603,2750,No,B,0<d<2,GOOD
+Jersey City,2,1,612,2300,Yes,B,0<d<2,GOOD
+Hoboken,2,2,"1,150","3,400",No,B,0<d<2,BAD
+Hoboken,1,1,660,"2,100",Yes,B,0<d<2,BAD
+Hoboken,1,1,738,"2,100",Yes,B,0<d<2,BAD
+Hoboken,1,1,N/A,"2,100",Yes,B,0<d<2,BAD
+Jersey City,3,2,522,2000,Yes,B,0<d<2,GOOD
+Jersey City,2,1,203,1450,No,B,0<d<2,GOOD
+Jersey City,3,2,680,2250,Yes,B,0<d<2,GOOD
+Jersey City,2,1.5,420,1500,No,B,0<d<2,GOOD
+Jersey City,3,2,598,2650,Yes,B,0<d<2,GOOD
+Jersey City,3,1,2250,3995,Yes,B,0<d<2,GOOD
+Jersey City,1,1,437,1550,No,B,0<d<2,BAD
+Jersey City,3,2,565,2300,Yes,B,0<d<2,GOOD
+Hoboken,2,2,N/A,"3,000",No,B,0<d<2,BAD
+Hoboken,2,2,836,"3,000",No,B,0<d<2,BAD
+Hoboken,2,2,925,"3,000",Yes,B,0<d<2,BAD
+Hoboken,2,2,836,"3,000",No,B,0<d<2,BAD
+Hoboken,1,1,836,"2,050",Yes,B,0<d<2,BAD
+Jersey City,2,1,800,1600,No,C,0<d<2,GOOD
+Jersey City,1,1,500,1300,No,C,0<d<2,GOOD
+Hoboken,1,1,870,"2,699",No,B,0<d<2,BAD
+Hoboken,1,1,836,"2,100",Yes,B,0<d<2,BAD
+Jersey City,3,1,467,2000,Yes,B,0<d<2,GOOD
+Hoboken,2,2,N/A,"3,100",Yes,B,0<d<2,BAD
+Jersey City,2,1,399,1500,No,B,0<d<2,GOOD
+Jersey City,2,1,450,1800,No,B,0<d<2,GOOD
+Jersey City,3,1,283,1600,No,A,0<d<2,GOOD
+Jersey City,4,2,800,2500,Yes,B,0<d<2,GOOD
+Jersey City,3,2,515,1950,Yes,B,0<d<2,GOOD
+Jersey City,2,1,435,1575,No,B,0<d<2,GOOD
+Jersey City,2,1,383,1725,No,B,0<d<2,GOOD
+Jersey City,2,1,650,1800,No,B,0<d<2,GOOD
+Jersey City,2,1,455,1850,No,B,0<d<2,GOOD
+Jersey City,2,1,1000,4590,Yes,A,0<d<2,BAD
+Jersey City,1,1,555,2300,Yes,B,0<d<2,BAD
+Hoboken,4,2,1700,"3,700",Yes,B,2<d<4,GOOD
+Hoboken,4,2,"1,200","3,700",No,B,2<d<4,GOOD
+Hoboken,4,2,N/A,"3,700",Yes,B,2<d<4,GOOD
+Hoboken,1,1,550,"1,650",Yes,A,2<d<4,BAD
+Hoboken,1,1,500,"1,650",No,A,2<d<4,BAD
+Hoboken,1,1,500,"1,650",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","2,450",Yes,B,2<d<4,GOOD
+Jersey City,3,2,666,2600,Yes,B,2<d<4,GOOD
+Hoboken,1,1,836,"2,400",No,B,2<d<4,BAD
+Jersey City,3,2,565,2500,Yes,B,2<d<4,GOOD
+Jersey City,2,1,450,1850,No,B,2<d<4,GOOD
+Jersey City,2,1,455,1850,No,B,2<d<4,GOOD
+Jersey City,2,1,432,1700,No,B,2<d<4,GOOD
+Jersey City,2,1,282,1750,No,B,2<d<4,GOOD
+Jersey City,2,1,550,2025,Yes,B,2<d<4,GOOD
+Jersey City,2,2,304,2100,No,A,2<d<4,GOOD
+Jersey City,1,1,414,1650,No,B,2<d<4,BAD
+Jersey City,1,1,434,1800,No,B,2<d<4,BAD
+Weehawken,3,2,N/A,"4,675",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,850",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,850",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,850",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,850",Yes,A,2<d<4,BAD
+Jersey City,2,1,398,1400,No,B,2<d<4,GOOD
+Jersey City,1,1,350,1400,No,B,2<d<4,GOOD
+Hoboken,2,1,870,"2,450",Yes,A,2<d<4,GOOD
+Hoboken,2,2,1200,"3,200",No,B,2<d<4,BAD
+Weehawken,3,2,624,"2,005",No,A,2<d<4,GOOD
+Weehawken,3,2,624,"2,005",No,A,2<d<4,GOOD
+Weehawken,3,2,624,"2,005",No,A,2<d<4,GOOD
+Weehawken,3,1,510,"2,187",Yes,A,2<d<4,GOOD
+Weehawken,3,1,510,"2,849",Yes,A,2<d<4,GOOD
+Weehawken,3,2,1275,"3,450",No,A,2<d<4,GOOD
+Weehawken,3,2,1275,"3,550",Yes,A,2<d<4,GOOD
+Weehawken,3,2,1275,"4,595",Yes,A,2<d<4,BAD
+Weehawken,3,2,1275,"4,595",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,660",Yes,A,2<d<4,BAD
+Weehawken,3,2,1400,"4,660",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,660",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,670",Yes,A,2<d<4,BAD
+Weehawken,3,3,N/A,"4,679",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,750",No,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,750",Yes,A,2<d<4,BAD
+Weehawken,3,3,N/A,"4,788",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,875",Yes,A,2<d<4,BAD
+Weehawken,3,2,"1,214","4,875",Yes,A,2<d<4,BAD
+Weehawken,3,3,N/A,"4,887",No,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,925",No,A,2<d<4,BAD
+Weehawken,3,2,900,"4,925",Yes,A,2<d<4,BAD
+Weehawken,3,2,1400,"4,950",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,955",Yes,A,2<d<4,BAD
+Weehawken,3,2,"1,214","4,955",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,995",Yes,A,2<d<4,BAD
+Weehawken,3,2,1400,"4,995",Yes,A,2<d<4,BAD
+Weehawken,3,3,"1,214","4,999",No,A,2<d<4,BAD
+Weehawken,2,2,1275,"3,365",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,214","3,425",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,425",Yes,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,425",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"5,150",Yes,A,2<d<4,BAD
+Weehawken,2,2,1275,"3,450",Yes,A,2<d<4,BAD
+Weehawken,2,2,1275,"3,450",No,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,450",No,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,450",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,214","3,495",Yes,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,550",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,555",Yes,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,610",Yes,A,2<d<4,BAD
+Weehawken,2,2,1150,3615,No,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,615",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,710",No,A,2<d<4,BAD
+Weehawken,2,2,"1,214","3,710",Yes,A,2<d<4,BAD
+Weehawken,1,1,574,"2,190",Yes,A,2<d<4,BAD
+Weehawken,1,1,574,"2,190",Yes,A,2<d<4,BAD
+Weehawken,1,1,706,"2,480",No,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,486",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,489",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,489",Yes,A,2<d<4,BAD
+Weehawken,1,1,800,"2,499",Yes,A,2<d<4,BAD
+Weehawken,1,1,800,"2,513",No,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,513",No,A,2<d<4,BAD
+Weehawken,1,1,706,"2,519",No,A,2<d<4,BAD
+Weehawken,1,1,706,"2,519",No,A,2<d<4,BAD
+Weehawken,1,1,800,"2,520",No,A,2<d<4,BAD
+Weehawken,1,1,706,"2,535",Yes,A,2<d<4,BAD
+Weehawken,1,1,574,"2,540",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,550",Yes,A,2<d<4,BAD
+Weehawken,1,1,706,"2,550",No,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,550",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,550",Yes,A,2<d<4,BAD
+Weehawken,1,1,706,"2,556",No,A,2<d<4,BAD
+Weehawken,1,1,800,"2,595",Yes,A,2<d<4,BAD
+Weehawken,1,1,706,"2,595",Yes,A,2<d<4,BAD
+Weehawken,1,1,800,"2,595",No,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,641",No,A,2<d<4,BAD
+Weehawken,1,1,800,"2,641",No,A,2<d<4,BAD
+Weehawken,1,1,800,"2,641",Yes,A,2<d<4,BAD
+Weehawken,1,1,1150,3420,Yes,A,2<d<4,BAD
+Union City,2,2,"1,135","2,000",No,B,2<d<4,GOOD
+Union City,2,2,"1,275","2,175",No,B,2<d<4,GOOD
+Union City,2,2,"1,425","2,400",Yes,B,2<d<4,GOOD
+Jersey City,1,1,280,1200,No,B,2<d<4,GOOD
+Weehawken,2,3,1150,3700,No,B,2<d<4,BAD
+Union City,2,1,800,"1,595",No,C,2<d<4,GOOD
+Union City,1,1,800,"2,050",No,C,2<d<4,BAD
+Union City,1,1,800,"2,050",Yes,C,2<d<4,BAD
+Union City,1,1,926,"2,250",Yes,C,2<d<4,BAD
+Jersey City,3,2,560,2400,Yes,B,2<d<4,GOOD
+Jersey City,2,2,705,2300,Yes,B,2<d<4,GOOD
+Jersey City,3,1,500,2000,No,B,2<d<4,GOOD
+Jersey City,3,1,444,1800,No,B,2<d<4,GOOD
+Jersey City,2,1,400,1650,No,B,2<d<4,GOOD
+Jersey City,2,1,499,1900,No,B,2<d<4,GOOD
+Jersey City,2,1,505,1900,No,B,2<d<4,GOOD
+Jersey City,3,1,440,1800,No,B,2<d<4,GOOD
+Jersey City,2,2,612,2900,Yes,B,2<d<4,BAD
+Jersey City,1,1,380,1250,No,B,2<d<4,GOOD
+Union City,2,1,985,"1,800",No,B,2<d<4,GOOD
+Union City,1,1,847,"1,395",No,B,2<d<4,GOOD
+Jersey City,1,1,203,1350,No,B,2<d<4,GOOD
+Jersey City,1,1,450,1375,No,A,2<d<4,GOOD
+Jersey City,3,2,573,2600,Yes,B,2<d<4,GOOD
+Jersey City,3,2,578,2800,Yes,B,2<d<4,GOOD
+Union City,3,1,825,"1,350",No,A,2<d<4,GOOD
+Weehawken,3,1,706,"2,188",Yes,A,2<d<4,GOOD
+Weehawken,3,1,624,"2,189",Yes,A,2<d<4,GOOD
+Weehawken,3,1,624,"2,543",Yes,A,2<d<4,GOOD
+Weehawken,3,1,706,"2,544",Yes,A,2<d<4,GOOD
+Weehawken,3,1,706,"2,848",Yes,A,2<d<4,GOOD
+Weehawken,3,2,1275,"3,475",No,B,2<d<4,GOOD
+Weehawken,3,2,1150,3475,Yes,B,2<d<4,GOOD
+Weehawken,4,3,"1,214","4,950",Yes,B,2<d<4,GOOD
+Weehawken,2,1,706,"2,675",Yes,B,2<d<4,GOOD
+Weehawken,2,1,706,"2,675",Yes,B,2<d<4,GOOD
+Weehawken,3,2,"1,214","4,675",Yes,A,2<d<4,BAD
+Weehawken,3,2,1275,"4,675",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,675",No,A,2<d<4,BAD
+Weehawken,3,2,1400,"4,775",No,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,775",Yes,A,2<d<4,BAD
+Weehawken,3,2,"1,214","4,850",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,875",No,A,2<d<4,BAD
+Weehawken,3,2,1400,"4,875",No,A,2<d<4,BAD
+Weehawken,3,2,"1,214","4,895",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,925",Yes,A,2<d<4,BAD
+Weehawken,3,2,N/A,"4,925",Yes,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,365",Yes,A,2<d<4,BAD
+Weehawken,2,2,900,"3,365",No,A,2<d<4,BAD
+Weehawken,2,2,1150,3365,Yes,A,2<d<4,BAD
+Weehawken,2,3,N/A,"3,370",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,450",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,450",Yes,A,2<d<4,BAD
+Weehawken,2,2,1150,3475,No,A,2<d<4,BAD
+Weehawken,2,2,"1,214","3,475",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,475",Yes,A,2<d<4,BAD
+Weehawken,2,2,1275,"3,525",No,A,2<d<4,BAD
+Weehawken,2,2,1150,3525,No,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,550",No,A,2<d<4,BAD
+Weehawken,2,2,N/A,"3,565",Yes,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,565",No,A,2<d<4,BAD
+Weehawken,2,2,"1,200","3,870",Yes,A,2<d<4,BAD
+Weehawken,2,2,1150,3870,Yes,A,2<d<4,BAD
+Weehawken,2,2,1150,3870,Yes,A,2<d<4,BAD
+Weehawken,1,1,624,"1,975",No,B,2<d<4,BAD
+Weehawken,1,1,624,"1,975",No,B,2<d<4,BAD
+Weehawken,3,3,N/A,"7,000",Yes,A,2<d<4,BAD
+Weehawken,2,2,N/A,"4,700",No,A,2<d<4,BAD
+Weehawken,1,1,800,"2,530",Yes,A,2<d<4,BAD
+Weehawken,1,1,706,"2,530",Yes,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,641",No,A,2<d<4,BAD
+Weehawken,1,1,N/A,"2,641",Yes,A,2<d<4,BAD
+Weehawken,1,1,800,"2,641",No,A,2<d<4,BAD
+Weehawken,3,3,N/A,"8,450",Yes,A,2<d<4,BAD
+Weehawken,1,1,"1,214","3,950",Yes,B,2<d<4,BAD
+Weehawken,1,1,1150,3950,Yes,B,2<d<4,BAD
+Weehawken,1,1,N/A,"9,500",Yes,A,2<d<4,BAD
+Jersey City,1,1,360,950,No,A,2<d<4,GOOD
+Jersey City,2,2,545,2150,Yes,B,2<d<4,GOOD
+Jersey City,2,1,550,2350,Yes,B,2<d<4,GOOD
+Jersey City,2,2,800,3250,Yes,B,2<d<4,BAD
+Jersey City,1,1,535,2200,Yes,B,2<d<4,BAD
+Jersey City,2,1,445,1800,No,B,2<d<4,GOOD
+Union City,4,1,"1,300","2,200",Yes,B,2<d<4,GOOD
+Weehawken,2,1,N/A,"2,050",No,B,2<d<4,GOOD
+Weehawken,2,1,800,"2,050",Yes,B,2<d<4,GOOD
+Union City,1,1,885,"1,650",No,B,2<d<4,BAD
+Weehawken,2,1,800,"2,150",No,C,2<d<4,GOOD
+Weehawken,2,1,800,"2,150",No,C,2<d<4,GOOD
+Weehawken,2,1,800,"2,150",No,C,2<d<4,GOOD
+Weehawken,1,1,624,"1,900",No,B,2<d<4,BAD
+Union City,3,1,"1,350","1,800",Yes,B,2<d<4,GOOD
+Union City,2,1,800,"1,495",Yes,C,2<d<4,GOOD
+Union City,2,1,775,"1,600",No,B,2<d<4,GOOD
+Union City,2,2,"1,135","2,150",Yes,C,4<d<6,GOOD
+Weehawken,6,2.5,1400,"5,800",No,B,4<d<6,GOOD
+Union City,2,1,800,"1,450",No,A,4<d<6,GOOD
+Union City,3,2,"1,780","4,000",No,A,4<d<6,GOOD
+Union City,2,2,"1,370","2,700",No,B,4<d<6,GOOD
+Union City,1,1,630,"1,500",No,B,4<d<6,BAD
+Union City,1,1,925,"2,200",No,B,4<d<6,BAD
+Union City,2,2,"1,400","1,895",No,A,4<d<6,GOOD
+Union City,2,2,1275,"2,500",No,A,4<d<6,GOOD
+Union City,1,1,625,"1,250",No,B,4<d<6,GOOD
+Union City,1,1,655,"1,250",Yes,A,4<d<6,GOOD
+Union City,2,2,"1,284","2,800",No,B,4<d<6,GOOD
+Union City,3,1,"1,200","1,750",No,B,4<d<6,GOOD
+Weehawken,3,2,574,"2,360",Yes,A,4<d<6,GOOD
+Weehawken,3,2,574,"2,360",Yes,A,4<d<6,GOOD
+Weehawken,2,2,1150,3035,Yes,A,4<d<6,BAD
+Weehawken,3,3,"1,214","4,765",No,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,775",No,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,775",No,A,4<d<6,BAD
+Weehawken,3,2,"1,214","4,775",Yes,A,4<d<6,BAD
+Weehawken,3,3,1275,"4,825",Yes,A,4<d<6,BAD
+Weehawken,3,2,1400,"4,850",Yes,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,850",Yes,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,850",Yes,A,4<d<6,BAD
+Weehawken,3,2,"1,214","4,850",Yes,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,855",Yes,A,4<d<6,BAD
+Weehawken,3,2,N/A,"4,875",Yes,A,4<d<6,BAD
+Weehawken,3,3,1400,"4,890",Yes,A,4<d<6,BAD
+Weehawken,3,2,1400,"4,925",Yes,A,4<d<6,BAD
+Weehawken,3,2,"1,214","4,925",No,A,4<d<6,BAD
+Weehawken,3,2,900,"4,925",Yes,A,4<d<6,BAD
+Weehawken,3,2,1400,"4,950",No,A,4<d<6,BAD
+Weehawken,2,2,1275,"3,365",No,A,4<d<6,BAD
+Weehawken,2,2,1275,"3,365",Yes,A,4<d<6,BAD
+Weehawken,2,2,"1,200","3,405",Yes,A,4<d<6,BAD
+Weehawken,2,2,N/A,"3,425",Yes,A,4<d<6,BAD
+Weehawken,2,2,1275,"3,425",No,A,4<d<6,BAD
+Weehawken,3,2,1400,"5,150",Yes,A,4<d<6,BAD
+Weehawken,2,2,1150,3455,No,A,4<d<6,BAD
+Weehawken,2,2,"1,200","3,475",Yes,A,4<d<6,BAD
+Weehawken,2,2,1275,"3,475",Yes,A,4<d<6,BAD
+Weehawken,2,2,"1,200","3,525",Yes,A,4<d<6,BAD
+Weehawken,2,2,1150,3525,No,A,4<d<6,BAD
+Weehawken,2,2,N/A,"3,525",No,A,4<d<6,BAD
+Weehawken,2,2,"1,200","3,565",Yes,A,4<d<6,BAD
+Weehawken,2,2,"1,214","3,565",No,A,4<d<6,BAD
+Weehawken,2,2,N/A,"3,565",Yes,A,4<d<6,BAD
+Weehawken,2,2,"1,200","3,675",No,A,4<d<6,BAD
+Weehawken,2,2,1150,3870,Yes,A,4<d<6,BAD
+Weehawken,2,2,1150,3870,Yes,A,4<d<6,BAD
+Weehawken,2,2,N/A,"3,870",Yes,A,4<d<6,BAD
+Weehawken,1,1,800,"2,445",No,A,4<d<6,BAD
+Weehawken,1,1,800,"2,530",No,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,530",No,A,4<d<6,BAD
+Weehawken,1,1,800,"2,530",No,A,4<d<6,BAD
+Weehawken,1,1,706,"2,530",Yes,A,4<d<6,BAD
+Weehawken,1,1,706,"2,530",No,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,545",Yes,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,545",Yes,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,545",Yes,A,4<d<6,BAD
+Weehawken,1,1,800,"2,550",Yes,A,4<d<6,BAD
+Weehawken,1,1,800,"2,590",No,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,641",Yes,A,4<d<6,BAD
+Weehawken,1,1,N/A,"2,655",No,A,4<d<6,BAD
+Union City,3,1,"1,650","1,800",No,B,4<d<6,GOOD
+Union City,3,1,"1,469","2,000",No,B,4<d<6,GOOD
+Union City,2,2,"1,000","2,200",No,C,4<d<6,GOOD
+Union City,2,2,"1,000","2,200",No,C,4<d<6,GOOD
+Union City,3,1,"1,753","6,180",No,A,4<d<6,BAD
+Union City,2,2,"1,009","2,275",No,C,4<d<6,GOOD
+Union City,2,2,"1,009","2,275",No,C,4<d<6,GOOD
+Union City,3,2,"1,879","3,950",No,B,4<d<6,GOOD
+Weehawken,1,1,574,"1,475",Yes,A,4<d<6,BAD
+Weehawken,1,1,574,"1,475",No,B,4<d<6,BAD
+Union City,3,2,"1,428","2,000",Yes,A,4<d<6,GOOD
+Union City,3,2,"1,650","2,600",Yes,B,4<d<6,GOOD
+Union City,2,2,"1,200","2,350",No,B,4<d<6,GOOD
+Union City,5,1,"2,250","8,460",No,A,4<d<6,BAD
+Union City,3,2,"1,465","2,300",No,B,4<d<6,GOOD
+Union City,2,2,914,"2,250",Yes,C,4<d<6,GOOD
+Union City,2,2,"1,650","2,300",No,B,4<d<6,GOOD
+Union City,2,2,"1,157","2,300",No,A,4<d<6,GOOD
+Union City,1,1,775,"1,150",Yes,B,4<d<6,GOOD
+Union City,2,1,"1,100","1,900",No,B,6<d<8,GOOD
+Union City,2,1,"1,100","1,900",No,B,6<d<8,GOOD
+Union City,1,1,"1,015","1,350",No,C,6<d<8,GOOD
+Union City,2,2,"1,325","2,400",No,A,6<d<8,GOOD
+Union City,1,1,600,"1,200",No,B,6<d<8,GOOD
+Union City,2,2,900,"2,150",No,C,6<d<8,GOOD
+Union City,2,2,900,"2,150",No,C,6<d<8,GOOD
+Union City,2,2,"1,348","2,550",Yes,B,6<d<8,GOOD
+Union City,2,2,965,"2,350",Yes,C,6<d<8,GOOD
+Union City,2,2,"1,025","2,400",No,B,6<d<8,GOOD
+Union City,2,2,"1,360","2,600",Yes,B,6<d<8,GOOD
+Union City,2,2,"1,495","2,195",No,B,6<d<8,GOOD
+Union City,2,2,"1,400","2,200",Yes,B,6<d<8,GOOD
+Union City,2,2,"1,063","2,200",No,A,6<d<8,GOOD
+Union City,2,1,775,"1,500",No,B,6<d<8,GOOD
+Union City,3,1,"1,230","2,600",Yes,A,6<d<8,GOOD
+Union City,2,1.5,980,"1,950",No,B,6<d<8,GOOD
+Union City,2,1,975,"1,700",No,B,6<d<8,GOOD
+Union City,2,1,975,"1,700",Yes,A,6<d<8,GOOD
+Union City,2,2,"1,247","2,550",No,B,6<d<8,GOOD
+Union City,1,1,380,"1,600",No,C,6<d<8,BAD
+Union City,1,1,500,"1,800",No,C,6<d<8,BAD
+Union City,1,1,535,"1,800",No,B,6<d<8,BAD
+Union City,1,1,600,"1,900",No,B,6<d<8,BAD
+Union City,1,1,600,"1,900",No,B,6<d<8,BAD
+Union City,1,1,575,"1,600",Yes,C,6<d<8,BAD
+Hoboken,1,1,1400,"4,265",Yes,B,2<d<4,BAD
